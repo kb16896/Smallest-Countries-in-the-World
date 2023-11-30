@@ -1,0 +1,135 @@
+h1 {
+
+color: black;
+text-align: center;
+font-size: 60pt;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+
+}
+
+
+p {
+
+color: black;
+text-align:center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30pt;
+
+
+
+
+}
+
+img {
+
+display:block;
+margin:auto;
+
+
+
+
+
+}
+.nav {
+
+    list-style: none;
+
+    padding-left: 0;
+
+    width: 50%;
+
+    margin: auto;
+
+    text-align: center;
+    
+    
+}
+
+.nav>li {
+    
+    border-radius: 30px;
+    
+    display: inline-block;
+
+    background-color: white;
+
+   
+}
+
+
+
+.button {
+
+    width:15vw;
+
+
+
+}
+
+div {
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+   
+
+
+
+
+}
+
+.homeimg {
+
+    width:20vw;
+
+
+
+
+}
+
+h2 {
+
+    color: black;
+    text-align: center;
+    font-size: 45pt;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+
+.tourismimg {
+
+    width:25vw
+
+}
+
+.homeimg2 {
+
+
+    width:15vw;
+
+
+}
+.home {
+
+    background-color:aliceblue;
+
+
+}
+.toolarge {
+
+
+width:25vw
+
+
+
+}
+
+.nav>li:hover{
+
+    width:16vw;
+    background-color:aliceblue;
+    
+}
